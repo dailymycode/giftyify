@@ -1,8 +1,8 @@
 # 🎁 Akıllı Hediye Öneri Uygulaması – AI Destekli & E-Ticaret Entegre
 
 Doğru hediyeyi bulmanızı kolaylaştıran bu uygulama, Google Gemini AI ile kişiselleştirilmiş öneriler sunar ve seçtiğiniz hediyeyi 
-Trendyol ile Amazon’da anında arama imkanı sağlar. 
-Bu uygulama, hem bireysel kullanıcıların sorununu çözer hem de e-ticaret sektörüne gerçek bir katkı sunmayı hedefler.
+**Trendyol** ile **Amazon**’da anında arama imkanı sağlar. 
+Bu uygulama, hem bireysel kullanıcıların sorununu çözer hem de **e-ticaret** sektörüne gerçek bir katkı sunmayı hedefler.
 
 ---
 
@@ -20,14 +20,13 @@ Hediye seçmek, özellikle karar vermekte zorlanan kullanıcılar için stresli 
 
 ## 🌟 Özellikler
 
-- ✨ 5 adımlı kullanıcı dostu form 
+- ✨ Doğrudan Satın Almaya Yönlendirme Desteği
 - 🧠 Google Gemini AI API ile yapay zekâ destekli öneri üretimi
-- 🛒 Trendyol ve Amazon linkleriyle gerçek e-ticaret bağlantısı
-- 📱 Responsive ve sade kullanıcı arayüzü
+- 🛒 **Trendyol** ve **Amazon** linkleriyle gerçek e-ticaret bağlantısı
+- 📱 sade kullanıcı arayüzü
 - 🌍 Geleceğe uygun backend altyapısı
 
 ---
-
 
 
 - 📊 **Kullanıcı Verilerini Yorumlama Altyapısı:**  
@@ -46,7 +45,7 @@ Hediye seçmek, özellikle karar vermekte zorlanan kullanıcılar için stresli 
 Bu uygulamanın e-ticaret dünyasında gerçek bir çözüm haline gelmesi için güçlü bir potansiyeli var:
   -Backend sayesinde hangi önerilerin daha çok ilgi gördüğü analiz edilerek sistem zamanla optimize edilebilir.
  -İleride kullanıcıların ilgi alanları, tercih geçmişi ve seçim davranışları backend tarafında toplanabilir ve analiz edilebilir.
-- 🔗 E-ticaret sitelerine doğrudan entegre edilerek “hediye öneri asistanı” haline gelebilir.
+- 🔗 **E-ticaret** sitelerine doğrudan entegre edilerek “hediye öneri asistanı” haline gelebilir.
 - 🛍️ Kullanıcı, önerilen hediyeyi tek tıkla sepetine ekleyebilir.
 - 📈 Siteler dönüşüm oranlarını artırabilir, terk edilen sepetleri azaltabilir.
 - 📦 Hediye tercihleri ve verileri üzerinden AI modelleri daha akıllı hale getirilebilir.
