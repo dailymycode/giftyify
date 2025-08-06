@@ -63,7 +63,7 @@ Bağımlılıkları kurun:
 npm install
 
 .env dosyasını oluşturun ve içine şu satırı ekleyin:
-GEMINI_API_KEY=your_google_gemini_api_key
+GEMINI_API_KEY=senin_google_gemini_api_keyin
 
 Uygulamayı çalıştırın:
 npm start
