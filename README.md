@@ -66,6 +66,7 @@ npm install
 GEMINI_API_KEY=senin_google_gemini_api_keyin
 
 Uygulamayı çalıştırın:
-npm start
+node server.mjs
+
 
 
