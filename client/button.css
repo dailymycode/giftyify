@@ -1,0 +1,46 @@
+.button-trendyol {
+    display: inline-flex;
+    align-items: center;
+    padding: 20px 16px;
+    background-color: #ff6f61;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .button-trendyol:hover {
+    background-color: #e65c50;
+  }
+  
+  .button-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+  }
+  
+
+
+.button-amazon {
+    display: inline-flex;
+    align-items: center;
+    padding: 20px 16px;
+    background-color: #ff9900; 
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .button-amazon:hover {
+    background-color: #cc7a00;
+    
+  }
+  
+  .button-icon {
+    width: 100px;
+    height: 35px;
+    margin-right: 10px;
+  }
+  
